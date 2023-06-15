@@ -28,12 +28,10 @@ If you are logged in as an admin a button in navbar will show up which gives you
 <img width = "300" src="https://i.imgur.com/p725woy.png"/>
 <img width = "300" src="https://i.imgur.com/80E5x6p.png"/>
 
- 
 
 
 
-- Orders :
-<img width = "800" src="https://i.imgur.com/wyyvpYQ.png"/>
+
 
 
 
