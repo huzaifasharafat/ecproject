@@ -30,8 +30,7 @@ If you are logged in as an admin a button in navbar will show up which gives you
 
  
 
-- Edit :
-<img width = "300" src="https://i.imgur.com/U7LXWm0.png"/>
+
 
 - Orders :
 <img width = "800" src="https://i.imgur.com/wyyvpYQ.png"/>
